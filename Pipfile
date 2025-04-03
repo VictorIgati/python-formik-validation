@@ -16,8 +16,6 @@ executing = "1.2.0"
 faker = "15.1.1"
 flask = "2.2.2"
 flask-cors = "3.0.10"
-flask-migrate = "3.1.0"
-flask-sqlalchemy = "3.0.3"
 Werkzeug = "2.2.2"
 importlib-metadata = "5.0.0"
 importlib-resources = "5.10.0"
@@ -52,6 +50,8 @@ tomli = "2.0.1"
 traitlets = "5.5.0"
 wcwidth = "0.2.5"
 zipp = "3.10.0"
+flask-sqlalchemy = "*"
+flask-migrate = "*"
 
 [dev-packages]
 
